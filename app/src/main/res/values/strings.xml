@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">BeauityDemo</string>
+
+    <string-array name="spinner">
+        <item >java</item>
+        <item >c++</item>
+        <item >c#</item>
+    </string-array>
 </resources>
